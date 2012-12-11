@@ -174,5 +174,6 @@
 	<classpathentry kind="lib" path="C:/Work/jboss-6.1.0.Final/client/xml-resolver.jar"/>
 	<classpathentry kind="lib" path="C:/Work/jboss-6.1.0.Final/client/XmlSchema.jar"/>
 	<classpathentry kind="lib" path="C:/Work/jboss-6.1.0.Final/client/xmlsec.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

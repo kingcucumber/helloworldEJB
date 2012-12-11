@@ -20,7 +20,7 @@ public class EJBClient {
 		try {
 			InitialContext ctx = new InitialContext();
 			HelloWorld helloworld = (HelloWorld) ctx
-					.lookup("HelloWorldBean/remote");
+					.lookup("HelloWorldBean/local");
 			System.out.println(helloworld.sayHello("wow"));
 
 		} catch (NamingException e) {
